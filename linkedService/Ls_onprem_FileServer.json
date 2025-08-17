@@ -1,0 +1,17 @@
+{
+	"name": "Ls_onprem_FileServer",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "D:\\Shilpi_singh_files",
+			"userId": "laptop-71nbd77e\\shilpi singh",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI2NDM0OWRhZC1mNTUzLTRiMWEtOGU1Ni1mN2Y0MGE0ODQ4ZDgiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "Shilpi-SelfHosted",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}

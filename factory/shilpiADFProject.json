@@ -1,0 +1,9 @@
+{
+	"name": "shilpiADFProject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6008a8f5-661c-482b-a031-50dd4aa4f97b",
+		"tenantId": "3328468e-5498-4374-b593-a662378594da"
+	}
+}
